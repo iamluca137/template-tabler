@@ -1,10 +1,10 @@
 # 🚀 Project Description
 **Laravel Admin Template** is a pre-configured admin dashboard template built with **Laravel** and **Bootstrap**. It includes:
 
-✅ Authentication system
-✅ Pre-styled UI components
-✅ Responsive layout for all devices
-✅ Ready-to-use structure for rapid development
+✅ Authentication system  
+✅ Pre-styled UI components  
+✅ Responsive layout for all devices  
+✅ Ready-to-use structure for rapid development  
 
 ---
 
